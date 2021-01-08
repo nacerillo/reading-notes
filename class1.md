@@ -5,7 +5,7 @@ HTML uses elements to describe the structure of pages
 
 these elements are enlosed by **tags**
 
-- **Tag**: serves as a container for an HTML element, and give us information about the nature of those elements.
+- Tag: serves as a container for an HTML element, and give us information about the nature of those elements.
   - all elements are enclosed by an opening (<tag>) and closing (</tag>) tag
 
 Example:
