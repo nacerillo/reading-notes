@@ -44,7 +44,7 @@ should begin with a declaration of _<DOCTYPE>_
 
 Every HTML Element can also carry an attribute call _id_.
 
-- id is used to identify an element from other elements on a page, even
+- **id** is used to identify an element from other elements on a page, even
   among similar elements.
 - giving elements an id allow us to style elements from similar instances differently using HTML.
 -Example:
