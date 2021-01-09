@@ -22,8 +22,8 @@ Example:
 
     <h2> This is a sub-heading </h2>
 
-    </body>
-
+</body>
+    
 </html>
 
 Tags can also contain **attributes**, which provide addional information
@@ -50,8 +50,10 @@ Every HTML Element can also carry an attribute call _id_.
 - giving elements an id allow us to style elements from similar instances differently using HTML.
 -Example:
 <html>
+<body>
    <p id = "para1"> This is paragraph 1 </p>
    <p id = "para2"> This is paragraph 2</p>
+   </body>
    </html>
 
 HTML Elements can also carry a **class** attribute.
