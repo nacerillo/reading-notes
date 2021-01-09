@@ -22,28 +22,8 @@ Example:
 
     <h2> This is a sub-heading </h2>
 
-- Types of Elements
-
-  - Block Elements
-    - elments that always starte a new line
-    - Examples: <h1> , <p>, <ul>, <li>
-  - InLine Elements:
-
-    - elements that will appear on the same line as their neighbor elements
-    - Examples: <a> , <b> , <em>, <img>
-
-  - The DIV
-    - a **div** (<div> </div>) is an element that is used to group other elements into the same block.
-    - using **id** and **class** inside a div allows you to apply CSS that controls how the element occupies the screen, and control other aspects of its style.
-
-- The SPAN
-  - the inline equivilant of a <div>
-
-# HTML5 Layout
-
-</body>
-    
-</html>
+ </body>
+ </html>
 
 Tags can also contain **attributes**, which provide addional information
 about an element's contents.
@@ -53,6 +33,7 @@ about an element's contents.
 Example: **style** is the name, and **red** is the value.
 
 <p style = "red"> This paragraph is now red<p>
+- Types of Elements
 
 ## Extra Markup
 
@@ -77,7 +58,51 @@ Every HTML Element can also carry an attribute call _id_.
   to mark a group of elements, that can all be identified by that one class, even
   if they have different ids.
 
-- HTML Elements can also carry a **class** attribute.
+- Block Elements
+  - elments that always starte a new line
+  - Examples: <h1> , <p>, <ul>, <li>
+- InLine Elements:
+
+  - elements that will appear on the same line as their neighbor elements
+  - Examples: <a> , <b> , <em>, <img>
+
+- The DIV
+
+  - a **div** (<div> </div>) is an element that is used to group other elements into the same block.
+  - using **id** and **class** inside a div allows you to apply CSS that controls how the element occupies the screen, and control other aspects of its style.
+
+- The SPAN
+  - the inline equivilant of a <div>
+
+## HTML5 Layout
+
+- introduces a new set of elements that can be used to divide up parts of a page.
+
+  - <header> , <nav> , <article>, <footer>
+    Traditional HTML
+    <html> 
+    <div id = "page">
+
+        <div id = "header>
+
+         <div id = "nav">
+
+        <div id = "content">
+
+    <div class = "article">
+    </html>
+
+  HTML5 Layout:
+    <html>
+    <div id = "page">
+        <header>
+        <nav>
+
+        <div id = "content">
+
+        <footer>
+
+    </html>
 
 # Javascript
 
