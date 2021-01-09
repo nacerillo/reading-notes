@@ -22,6 +22,25 @@ Example:
 
     <h2> This is a sub-heading </h2>
 
+- Types of Elements
+
+  - Block Elements
+    - elments that always starte a new line
+    - Examples: <h1> , <p>, <ul>, <li>
+  - InLine Elements:
+
+    - elements that will appear on the same line as their neighbor elements
+    - Examples: <a> , <b> , <em>, <img>
+
+  - The DIV
+    - a **div** (<div> </div>) is an element that is used to group other elements into the same block.
+    - using **id** and **class** inside a div allows you to apply CSS that controls how the element occupies the screen, and control other aspects of its style.
+
+- The SPAN
+  - the inline equivilant of a <div>
+
+# HTML5 Layout
+
 </body>
     
 </html>
@@ -47,16 +66,18 @@ Every HTML Element can also carry an attribute call _id_.
 
 - **id** is used to identify an element from other elements on a page, even
   among similar elements.
-- giving elements an id allow us to style elements from similar instances differently using HTML.
--Example:
+- giving elements an id allow us to style elements from similar instances differently using HTML. - Example:
 <html>
 <body>
    <p id = "para1"> This is paragraph 1 </p>
    <p id = "para2"> This is paragraph 2</p>
    </body>
    </html>
+- **class** attribute functions similarly to **id**, but instead can be used
+  to mark a group of elements, that can all be identified by that one class, even
+  if they have different ids.
 
-HTML Elements can also carry a **class** attribute.
+- HTML Elements can also carry a **class** attribute.
 
 # Javascript
 
