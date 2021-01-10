@@ -68,7 +68,7 @@ Every HTML Element can also carry an attribute call _id_.
 
 - The DIV
 
-  - a **div** (<div> </div>) is an element that is used to group other elements into the same block.
+  - a **div** is an element that is used to group other elements into the same block.
   - using **id** and **class** inside a div allows you to apply CSS that controls how the element occupies the screen, and control other aspects of its style.
 
 - The SPAN
