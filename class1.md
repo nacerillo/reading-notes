@@ -60,11 +60,11 @@ Every HTML Element can also carry an attribute call _id_.
 
 - Block Elements
   - elments that always starte a new line
-  - Examples: <h1> , <p>, <ul>, <li>
+  - Examples: (<h1> , <p>, <ul>, <li>)
 - InLine Elements:
 
   - elements that will appear on the same line as their neighbor elements
-  - Examples: <a> , <b> , <em>, <img>
+  - Examples: (<a> , <b> , <em>, <img>)
 
 - The DIV
 
@@ -103,6 +103,66 @@ Every HTML Element can also carry an attribute call _id_.
         <footer>
 
     </html>
+
+  - Header / Footer
+    - used as the main header and footer elements, which appear at the top/bottom of every sight
+
+  ## HTML Elements
+
+  - Navigation
+    - the <nav> element is used to contain navigational blocks on a site
+  - Article
+    - the <article> element acts as a container for any section of a page that could stand alone.
+  - Aside
+
+    - has two purposes:
+      - when inside <article>, it should contain information rhat is related to the article, but
+        not essential to its overall meaning.
+      - when outside <article>, it contains information related to the entire page. such as lists
+        of sections or recent posts.
+    - Section
+
+      - the <section> elements groupd related content together.
+
+      Other HTML5 Elements
+
+      - <hgroup> : used to hold together multiple <h> elements to make the look like a single heading.
+
+    ## Process and Design
+
+    - it is important to consider your audience, be they individuals or companies, and what they want for their website.
+
+      - consider your the audiences **motivations**(why visit the site) and their
+        **goals** (that triggers making the go to a site NOW)
+
+    - Be aware of what information your audience needs!
+    - look at their goals, and use those to decide what info they need.
+
+    Diagrams For Building Websites
+
+    - Site Maps: a diagram where information is grouped together based on what page the relate to, and where pages are similarly grouped into related sections.
+
+    - WireFrames: a sketch of the information and content that goes on each page. a wire frame shows a rough map of where each element will go on the page.
+
+    Other Concepts to Keep in Mind
+
+    - **Visual Hierarchy:**
+
+      - The order in whcih the eye precives what is in front of it.
+      - contrasts in size, color, and stlye that help to distinguish.
+      - higher contrasts = first to be recognized.
+
+    - **Grouping and Similarity:**
+
+      - group similar pieces of information together.
+      - Proximity: put related items close together.
+      - Closure: arrange elements into recognizable patter
+      - Continuance: arrange element in a curve or path
+      - White Space: leave gaps between unlreated items
+      - Color: use similar backgroun color for similar items
+      - Borders: use borders to surround similar items.
+
+    - ## **Designing Navigation Princples:**
 
 # Javascript
 
