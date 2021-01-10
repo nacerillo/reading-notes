@@ -2,14 +2,14 @@
 
 ## Table Of Contents
 
-1. _Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)_
+1. **Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)**
 
-- **HTML**
+- _HTML_
   - Structure
   - Extra Markup
   - HTML5 Layout
   - Process Design
-- **Javascipt**
+- _Javascipt_
   - The ABCs of Programming
 
 2. Day 1
