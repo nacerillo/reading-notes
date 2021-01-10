@@ -60,7 +60,7 @@ Every HTML Element can also carry an attribute call _id_.
 
 - Block Elements
   - elments that always starte a new line
-  - Examples: (<h1> , <p>, <ul>, <li>)
+  - Examples: [//]: <> (<h1> , <p>, <ul>, <li>)
 - InLine Elements:
 
   - elements that will appear on the same line as their neighbor elements
