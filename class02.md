@@ -7,4 +7,4 @@
 
 - ## Markup Elements:
   - Headings: `<h1>, <h2> ,<h3>, <h4>, <h5>, <h6>`
-  - six levels of size, `<h1>` being biggest, and `<h6>` being smallest
+    - six levels of size, `<h1>` being biggest, and `<h6>` being smallest
