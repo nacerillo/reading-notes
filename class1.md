@@ -72,7 +72,7 @@ Every HTML Element can also carry an attribute call _id_.
   - using **id** and **class** inside a div allows you to apply CSS that controls how the element occupies the screen, and control other aspects of its style.
 
 - The SPAN
-  - the inline equivilant of a <div>
+  - the inline equivilant of a `<div>`
 
 ## HTML5 Layout
 
