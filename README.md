@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-1. **Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)**
+1. [Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)](class1.md)
 
 - _HTML_
   - Structure
