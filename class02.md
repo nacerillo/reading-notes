@@ -7,12 +7,12 @@
 
 ## Strctured Markup:
 
-- Headings:
+- **Headings:**
 
   - `<h1>, <h2> ,<h3>, <h4>, <h5>, <h6>`
   - six levels of size, `<h1>` being biggest, and `<h6>` being smallest
 
-- Paragraphs:
+- **Paragraphs:**
 
   - `<p>`
   - surrounding text with <p> to create paragraph blocks
@@ -24,7 +24,7 @@
     </p>
     ```
 
-    ## Bold & Italic:
+    - **Bold & Italic:**
 
     - enclosing text with `<b>...</b>` or `<i>...</i>` will make make text bold or italicized respectivly.
     -
@@ -35,7 +35,7 @@
 
       <p> <i>good morning</i> and <b> hello world</b> </p>
 
-    ## Subscript/Superscript:
+    **Subscript/Superscript:**
 
     - subscript = `<sub>...</sub>`
     - superscript = `<sup>...</sup>`
@@ -49,7 +49,7 @@
        <p> Papers are due one the 4<sup>th</sup> of January</p>
        <p> E = MC<sup>2</sup></p>
 
-    ## LineBreaks / Horizontal Rules:
+    **LineBreaks/Horizontal Rules:**
 
     - line breaks: `<br />`
 
@@ -78,3 +78,36 @@
     <p>Jupitor is bigger than all the planets combined.</p>
 
 ## Semantic Markup:
+
+**Strong & Emphasis**
+
+- `<strong>...</strong>` is used to mark something as important
+- `<em>...</em>` is used to mark emphasis which subtley changes the meaing of the sentence.
+- Both are used in much the same way as `<i>` and `<b>`.
+
+**Quotations**
+
+- `<blockquote>...</blockquote>` for long quotations
+- `<q>...</q>` for shoter quotations.
+
+```html
+<blockquote>
+  <p>Did you ever stop the think, and forget to start again?</p>
+</blockquote>
+<p>
+  As A.A Milne once said.
+  <q>
+    Some people talk to animals. Not many listen though. That's the problem</q
+  >
+</p>
+```
+
+  <blockquote>
+    <p>Did you ever stop the think, and forget to start again?</p>
+  </blockquote>
+  <p>
+    As A.A Milne once said.
+    <q>
+      Some people talk to animals. Not many listen though. That's the
+      problem</q>
+  </p>
