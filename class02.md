@@ -26,6 +26,28 @@
 
     ## Bold & Italic:
 
-    - enclosing text with `<b>...</b>` or `<i>..</i>` will make make text bold or italicized respectivly.
-    - `<p> <i>Good morning</i>, and <b> hello world </b> </p>`
-    <p> <i>good morning</i> and <b> hello world</b> </p>
+    - enclosing text with `<b>...</b>` or `<i>...</i>` will make make text bold or italicized respectivly.
+    -
+
+    ```html
+    <p><i>Good morning</i>, and <b> hello world </b></p>
+    ```
+
+      <p> <i>good morning</i> and <b> hello world</b> </p>
+
+    ## Subscript/Superscript:
+
+    - subscript = `<sub>...</sub>`
+      - <p> </p>
+    - superscript = `<sup>...</sup>`
+
+    -
+
+    ```html
+    <p>Papers are due one the 4<sup>th</sup> of January</p>
+
+    <p>E = MC<sup>2</sup></p>
+    ```
+
+       <p> Papers are due one the 4<sup>th</sup> of January</p>
+       <p> E = MC<sup>2</sup></p>
