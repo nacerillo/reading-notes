@@ -106,26 +106,27 @@ Every HTML Element can also carry an attribute call _id_.
   - Header / Footer
     - used as the main header and footer elements, which appear at the top/bottom of every sight
 
-  ## HTML Elements
+## HTML Elements
 
-  - Navigation
-    - the <nav> element is used to contain navigational blocks on a site
+- Navigation
+
+  - the `<nav>` element is used to contain navigational blocks on a site
   - Article
-    - the <article> element acts as a container for any section of a page that could stand alone.
+    - the `<article>` element acts as a container for any section of a page that could stand alone.
   - Aside
 
     - has two purposes:
-      - when inside <article>, it should contain information rhat is related to the article, but
+      - when inside `<article>`, it should contain information rhat is related to the article, but
         not essential to its overall meaning.
-      - when outside <article>, it contains information related to the entire page. such as lists
+      - when outside `<article>`, it contains information related to the entire page. such as lists
         of sections or recent posts.
     - Section
 
-      - the <section> elements groupd related content together.
+      - the `<section>` elements groupd related content together.
 
       Other HTML5 Elements
 
-      - <hgroup> : used to hold together multiple <h> elements to make the look like a single heading.
+      - `<hgroup>` : used to hold together multiple `<h>` elements to make the look like a single heading.
 
     ## Process and Design
 
