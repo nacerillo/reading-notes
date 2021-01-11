@@ -111,3 +111,29 @@
       Some people talk to animals. Not many listen though. That's the
       problem</q>
   </p>
+
+**Abbriviations/Acroynms:**
+
+- abbreviation = `<abbr>`
+- acronym = `<acronym>`
+
+```html
+<p>
+  <abbr title="Doctor"
+    >Dr.</abbr>
+      Anthony Morris is a leader in both brain and bone cancer research</abbr
+    ></abbr
+  >
+</p>
+
+<p><acronym title = "National Aeronautics and Space Admin">NASA
+</acronym></p>
+
+```
+
+**Changes To Content:**
+
+- `<ins>..</ins>` adds underline to text.
+- `<del>..</del>` item has been deleted out text.
+- `<s>..</s>` item is no longer relevant.
+- Both `<del>` and `<s>` cross out text.
