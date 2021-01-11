@@ -78,31 +78,30 @@ Every HTML Element can also carry an attribute call _id_.
 
 - introduces a new set of elements that can be used to divide up parts of a page.
 
-  - <header> , <nav> , <article>, <footer>
+  - `<header> , <nav> , <article>, <footer>`
+
     Traditional HTML
-    <html> 
-    <div id = "page">
 
-        <div id = "header>
+    `<div id = "page">`
 
-         <div id = "nav">
+    `<div id = "header>`
 
-        <div id = "content">
+    `<div id = "nav">`
 
-    <div class = "article">
-    </html>
+    `<div id = "content">`
 
-  HTML5 Layout:
-    <html>
-    <div id = "page">
-        <header>
-        <nav>
+    `<div class = "article">`
 
-        <div id = "content">
+  HTML5 Layout:  
+  `<div id = "page">`
 
-        <footer>
+  `<header>`
 
-    </html>
+  `<nav>`
+
+  `<div id = "content">`
+
+  `<footer>`
 
   - Header / Footer
     - used as the main header and footer elements, which appear at the top/bottom of every sight
