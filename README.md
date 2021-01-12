@@ -12,7 +12,7 @@
 - _Javascipt_
   - The ABCs of Programming
 
-2. Day 1
+2. [class02](class.02.md)
 3. Day 2
 4. Day 3
 5. Day 4
