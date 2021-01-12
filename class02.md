@@ -208,3 +208,31 @@ selector - p {
   - Modules %
 
   - order of operations follows same as it does in normal arithmatic
+
+## Decisions and Loops:
+
+- sometimes the code must be written in a way for one line of code will followed instead of another line of code. conditions are set that decided which path of code is taken.
+
+- Example
+  ```js
+  if (score > 50) {
+    document.write("You passed!");
+  } else {
+    document.write("Try again...");
+  }
+  ```
+- Comparison Operators:
+
+  - `==` - is equal to
+  - `!=` - is not equal
+  - `===` - stict equal
+  - `!==` - strict not equal to
+  - `>` - gretaer than
+  - `<` - lesser than
+  - `>=` - greater than or equal to
+  - `<=` - less than equal to
+
+- Logical Operators:
+  - `&&`
+  - `||`
+  - `!`
