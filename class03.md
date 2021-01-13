@@ -134,3 +134,79 @@ p.example {
   - values: inline, block, inline-block, none
 - **visibility**: Allows you to hide boxes from users, but leaves a space where the element would normally be.
   - values: hidden, visible.
+
+## Using Switch Statements:
+
+- can be good to use instead of ELSE/IF
+- especially if there are multiple conditions.
+
+ELSE/IF example:
+
+```javascript
+//Keep in mind that even when a match is found, If statements will still continue to go through every option.
+// keyowrd *break;* can ensure that the loops end when a match is found
+if ((level = 1)) {
+  title = "Level 1";
+  break;
+} else if ((level = 2)) {
+  title = "Level 2";
+  break;
+} else if ((level = 3)) {
+  title = "Level 3";
+  break;
+} else {
+  break;
+}
+```
+
+SWITCH example:
+
+```javascript
+//Far fewer {} and () to worry about
+switch (level) {
+  case 1:
+    title = `Level 1`;
+    break;
+
+  case 2:
+    title = `Level 2`;
+    break;
+
+  case 2:
+    title = `Level 2`;
+    break;
+
+  // default will run if there are no options that match
+  default:
+    title = "Test";
+    break;
+}
+```
+
+## Types and Values
+
+- Javascript is _type coercion_, whcih means that it can convert data types behind the scnes to complete an operation.
+- Javascript also has _weak typeing_, which means the data type of a value can be changed.
+
+## Loops
+
+- below are some examples of loops!
+
+```js
+//FOR LOOP
+for (var number = 0; number < 10; number++) {
+  msg += msg + "I say 'Bird! Bird! B-birds the word!' ";
+}
+
+//WHILE LOOP
+var x = 0;
+while (x < 100) {
+  x++;
+}
+
+//DO WHILE LOOP
+var x = 100;
+do {
+  x--;
+} while (x > 0);
+```
