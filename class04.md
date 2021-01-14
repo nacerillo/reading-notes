@@ -37,3 +37,13 @@
   - **Relative:** keeps the element within the normal flow, but can be moved left and right, and can still use as an anchor point
   - **Static:** flow is preserved. cannot be used as anchor point.
   - **Sticky:** combination of fixed and absolute.
+
+  ## Functions:
+
+  variable that not only includes a single value, but it also an entirle block of code, containing its own logic
+
+  **arguement:** data that we can feed into a function.
+  **parameter:** a varibale that only the function can use,and servers as a stand in for the arguement
+  **scope:** The code that is inside a function.
+
+  - functions can access global scope, but
