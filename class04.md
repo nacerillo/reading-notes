@@ -1,4 +1,6 @@
-# Links
+# Class 04 Notes
+
+## Links
 
 - link uses:
 
@@ -24,3 +26,14 @@
 <!--Opening a link in a new window-->
 <a href="http://www.imdb.com" target="_blank"></a>
 ```
+
+## Layout
+
+- Position Properties
+
+  - **Absolute:** positions the elements in relation to its containg elements. it does not affect the position of its
+    surrounding elements
+  - **Fixed:** Removes element from the normal flow, and instead positon something relative to the view port?
+  - **Relative:** keeps the element within the normal flow, but can be moved left and right, and can still use as an anchor point
+  - **Static:** flow is preserved. cannot be used as anchor point.
+  - **Sticky:** combination of fixed and absolute.
