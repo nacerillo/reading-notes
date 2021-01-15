@@ -67,3 +67,18 @@ p {
   background-color: hsla(0, 100%, 100%, 0.5);
 }
 ```
+
+## Text
+
+- properties that control text can be split into two groups.
+
+  - those that directly affect the font and its appearance
+  - those taht would have the same effect on text no matter what font you are using.
+
+- Text has a HUGE impact on the readabiliy of your page, so dont slack on it.
+
+- 3 properties of text include...
+  - Weight
+  - Style
+  - Stretch
+- different fonts are organized together into families called type faces. these are also called `font-family` in html.
