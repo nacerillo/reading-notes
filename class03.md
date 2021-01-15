@@ -210,3 +210,7 @@ do {
   x--;
 } while (x > 0);
 ```
+
+for(var num = 0; num < array.length; num++){
+console.log(array[])
+}
