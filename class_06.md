@@ -10,7 +10,9 @@
 
 ## Object Literals:
 
+- **objects:** something that holds different times of data, can sometimes represented or interprted as real world objects.
 - creating an object literal notation:
+- inside an obejct, `this` referes to an object that is being defined.
 
 ```js
 var hotel = {
