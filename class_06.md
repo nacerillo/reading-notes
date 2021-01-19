@@ -3,7 +3,7 @@
 ## Article: Understanding Problem Domain
 
 - **Problem Domain**: the goal that defines a project. what is the costumer asking us to make for them?
-
+- need to understand the scope the problem, and coming up with a process for how it can be solved.
 - repetion of building similar applications helps to solidy understanding of the technology.
 - Very often, the problem domain is not clear-cut, its like a jigsaw puzzle.
 - breaking down a problem domain into seperate tasks and features makes it much easier to tackle.
@@ -36,6 +36,7 @@ var roomsFree = hotel["checkAvailability"]();
 
 ## Document Object Model - DOM -:
 
+- it is an object that lives globally within the console.
 - DOM: specifies how browsers should create a model of anHTML page
   and how javascript can access and update the contents of a webpage while it is in the browser window
 - it does covers...
@@ -52,6 +53,9 @@ var roomsFree = hotel["checkAvailability"]();
   - Attribute node:
   - Text node:
 
+- `getElementById(id) -- selects and existing element`
+- `createElement() -- creates new HTML element that is not yet displayed`
+- `appendChild() -- places new element on the page`
 - updating the DOM tree involves two steps:
   - Locate the node the represents the element you want to work with
   - Use its text content, child elements, and attributes.
