@@ -255,3 +255,7 @@ Every HTML Element can also carry an attribute call _id_.
               document.write('<h3> Welcome! </h3>');
           </script>
       </html>
+- display block vs inline block
+- margin
+- padding 
+- border
