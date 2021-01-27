@@ -55,3 +55,17 @@ Storage.setItem("bar", foo);
 ```
 
 - If you want to keep track programmatically of when the storage area changes, you can trap the `storage` event. The `storage` event is fired on the window object whenever `setItem()`, `removeItem()`, or `clear()` is called and actually changes something.
+
+## Notes During Class:
+
+- data is created and collected using JS, but refreshing the page kills all of that data.
+- in this class, our data is not going to leave the browser.
+- we will use **Local Storage**.
+
+  - API, just like _document_, but is used to store data and allow it to persist within out file system.
+    - there is a directory in the browser that can store this data.
+      - Example: username/password tokens are stored in this directory.
+      - only accessible via the web-browser.
+
+- each url has its own spot in localStorage files.
+- 5 MB limit for data. and it is always stored in Key/Value format. and as a string.
