@@ -69,3 +69,28 @@ Storage.setItem("bar", foo);
 
 - each url has its own spot in localStorage files.
 - 5 MB limit for data. and it is always stored in Key/Value format. and as a string.
+
+- `localStorage.setItem(key, value)` method for placing something in local staorage.
+- `localStorage.getItem(key,value)` method for grabbing something from local storage.
+- `localStorage.clear()` method for clearing data from storage.
+
+- `JSON` object is another API for manipulating javascript objets.
+
+  - `JSON.stringify` turns a Javascript object or array into a string.
+  - `JSON.parse` turns a string that contains js-object notation and converts it back into a js-object.
+
+  - Example:
+
+    ```js
+    var nick = {
+      name: "nick",
+      age: "26",
+    };
+    //stringfy to set the item to storage
+    var nickString = JSON.stringify(nick);
+    localStorage.setItem("nick", nickString);
+
+    //parse the item after getting it back
+    localStorage.getItem("nick");
+    var getbackNick = JSON.parse(nickString);
+    ```
