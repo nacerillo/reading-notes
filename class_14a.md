@@ -7,6 +7,11 @@
 - Good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues.
 - teams like minded peiople with high "average socical sensitivity" and asymetrical heirachry seem to be the optimal team structure.
 
+- Make sure that you can trust the people that you are with
+- Make sure that you feel value in your team.
+- Everyone is able to communicate and contribute. 
+- team-meates that hav good emotional awareness of one another. 
+
 ## CSS Transformations:
 
 - Transform: moving/manipulating an object over a 2d or 3d plane.
