@@ -1,9 +1,8 @@
-# Code 201 Reading Notes
-
+# Reading Notes
+this website represents notes and information that I have gathered and written down from the readings that I have gone through for Codefellows. these notes represent all of my accumulated knowledge from those readings, and shall be used for studying purposes
 ## Table Of Contents
 
-1. [Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)] (class1.md)
-
+## Code 201 - Foundations of Software Development
 - _HTML_
   - Structure
   - Extra Markup
@@ -26,3 +25,8 @@
 13. Day 12
 14. Day 13
 15. Day 14
+
+## Code 301 - Intermediate Software Development
+
+
+## Code 401 - Advanced Software Development 
