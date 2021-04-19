@@ -1,6 +1,7 @@
-# Code 201 Reading Notes
+# Reading Notes
+ - This website provides a table of contents for the notes that I have taken and the topics I have covered so far participating in Code Fellows.
 
-## Table Of Contents
+## Code 201 - Foundations of Software Development
 
 1. [Prework: Into to HTML and Javascript (01/08/2021 - 01/11/2021)](class1.md)
 
@@ -26,3 +27,8 @@
 13. Day 12
 14. Day 13
 15. Day 14
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
