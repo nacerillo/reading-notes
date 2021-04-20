@@ -55,6 +55,13 @@ async function getACity(city) {
   console.log(results.body);
 }
 getACity("Seattle");
-getACity("Chicago");
-getACity("Salt Lake City");
 ```
+
+4. Explain promises as though you were mentoring a Code 301 level student
+
+- A promise is a javascipt object that represents an asyncronous operation - and that operation's results - that has not yet been triggered, regardless whether or not the opertaion successed or fails.
+
+5. Are all callback functions considered to be Asynchronous? Why or Why Not?
+
+- Not all callbacks are asyncronus.
+- A callback involes a parent function, and a child function. the child function is the one being used by the parent as a parameter. If the parent has to wait on the child function to return before it returns, then it is syncronous. otherwise, it is asyncronous.
