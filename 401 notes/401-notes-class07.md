@@ -1,4 +1,4 @@
-# Class-06 Notes:
+# Class-07 Notes:
 
 1. Order of steps in Requsting Token
    - Ask the client if they want to sign in via a third party
