@@ -21,3 +21,8 @@
   - `Authorization:` a secrutiy method to determine access levels or user capabilites related to an application.
   - `Capabilites: ` refers to the type of actions such as _delete, update, create and read_ that a user can take on a site based on their Authorization.
   - `Role Based Access Control`: users are assigned roles, and these roles determine what capabilites they have.
+
+
+
+pick up client IDs. 
+create store id = socket id
