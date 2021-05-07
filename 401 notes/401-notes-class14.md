@@ -24,3 +24,12 @@
 
 - `FIFO Queue`: as stated before, designed to enhance messaging between applications when the order of operations and events is critical, or where duplicates can't be tolerated. [source](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html) \_
 - `Pub/Sub`: publish/subscribe messaging. an asynchronous communication where any item that any message published to an item "or emited to" is recieved by any items that subscribe "or listening with .on" to that item.
+
+## Preview:
+
+1. really want to learn more about AWS, and what exactly SNS/SQS is.
+2. I'm excited to see demos that demonstrate best times to uses FIFO verses standard queues in or demos. also to learn more about binary trees.
+3. I'm most excited to try and implement Binary and Binary Search Trees. Its a concept i used to stuggle with in school, and i never quite got the hang of them.
+
+- SNS = simple notification service.
+- SQS - simple queue service.
