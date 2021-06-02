@@ -21,5 +21,10 @@
 
 - `Compositon: `A development/design patter that is based around the idea that we can build components out of other, smaller components. enforcing state management and reusability.
 - `Child Components: `components that are called on by another component. a child component can recieve data/props from a parent.
-- `Hash Routing: `
-- `Link Routing: `
+- `Hash Routing: `part of legacy react. it is routing that uses the hast portion of the URL to keep the UI in sync with the current URL. [SOURCE](https://reactrouter.com/web/api/HashRouter)
+- `Link Routing: `a declartive way to navigate to a point in the application.
+  Example:[SOURCE](https://reactrouter.com/web/api/Link)
+
+```js
+<Link to="/about">About</Link>
+```
